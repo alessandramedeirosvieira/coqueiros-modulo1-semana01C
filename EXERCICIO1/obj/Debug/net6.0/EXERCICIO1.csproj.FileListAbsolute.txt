@@ -1,0 +1,30 @@
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\bin\Debug\net6.0\EXERCICIO1.exe
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\bin\Debug\net6.0\EXERCICIO1.deps.json
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\bin\Debug\net6.0\EXERCICIO1.runtimeconfig.json
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\bin\Debug\net6.0\EXERCICIO1.dll
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\bin\Debug\net6.0\EXERCICIO1.pdb
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\EXERCICIO1.csproj.AssemblyReference.cache
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\EXERCICIO1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\EXERCICIO1.AssemblyInfoInputs.cache
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\EXERCICIO1.AssemblyInfo.cs
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\EXERCICIO1.csproj.CoreCompileInputs.cache
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\EXERCICIO1.dll
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\refint\EXERCICIO1.dll
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\EXERCICIO1.pdb
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\EXERCICIO1.genruntimeconfig.cache
+D:\CURSO DESENVOLVEDOR\PROJETOS\EXERCICIO1\obj\Debug\net6.0\ref\EXERCICIO1.dll
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\bin\Debug\net6.0\EXERCICIO1.exe
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\bin\Debug\net6.0\EXERCICIO1.deps.json
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\bin\Debug\net6.0\EXERCICIO1.runtimeconfig.json
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\bin\Debug\net6.0\EXERCICIO1.dll
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\bin\Debug\net6.0\EXERCICIO1.pdb
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\EXERCICIO1.csproj.AssemblyReference.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\EXERCICIO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\EXERCICIO1.AssemblyInfoInputs.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\EXERCICIO1.AssemblyInfo.cs
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\EXERCICIO1.csproj.CoreCompileInputs.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\EXERCICIO1.dll
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\refint\EXERCICIO1.dll
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\EXERCICIO1.pdb
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\EXERCICIO1.genruntimeconfig.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\semana01\exercicio1\obj\Debug\net6.0\ref\EXERCICIO1.dll

@@ -1,0 +1,5 @@
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\obj\Debug\net6.0\Modulo1.csproj.AssemblyReference.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\obj\Debug\net6.0\Modulo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\obj\Debug\net6.0\Modulo1.AssemblyInfoInputs.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\obj\Debug\net6.0\Modulo1.AssemblyInfo.cs
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\obj\Debug\net6.0\Modulo1.csproj.CoreCompileInputs.cache

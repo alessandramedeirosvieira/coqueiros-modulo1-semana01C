@@ -1,0 +1,5 @@
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\obj\Debug\net6.0\Semana01.csproj.AssemblyReference.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\obj\Debug\net6.0\Semana01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\obj\Debug\net6.0\Semana01.AssemblyInfoInputs.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\obj\Debug\net6.0\Semana01.AssemblyInfo.cs
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\obj\Debug\net6.0\Semana01.csproj.CoreCompileInputs.cache

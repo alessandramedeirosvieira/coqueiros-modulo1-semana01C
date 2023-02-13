@@ -1,0 +1,15 @@
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\bin\Debug\net6.0\exercicio7correto.exe
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\bin\Debug\net6.0\exercicio7correto.deps.json
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\bin\Debug\net6.0\exercicio7correto.runtimeconfig.json
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\bin\Debug\net6.0\exercicio7correto.dll
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\bin\Debug\net6.0\exercicio7correto.pdb
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\exercicio7correto.csproj.AssemblyReference.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\exercicio7correto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\exercicio7correto.AssemblyInfoInputs.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\exercicio7correto.AssemblyInfo.cs
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\exercicio7correto.csproj.CoreCompileInputs.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\exercicio7correto.dll
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\refint\exercicio7correto.dll
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\exercicio7correto.pdb
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\exercicio7correto.genruntimeconfig.cache
+C:\Alessandra_Medeiros\Coqueiros\Modulo1\Semana01\exercicio7correto\obj\Debug\net6.0\ref\exercicio7correto.dll
