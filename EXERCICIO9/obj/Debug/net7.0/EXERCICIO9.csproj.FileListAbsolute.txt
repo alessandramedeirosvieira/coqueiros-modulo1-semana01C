@@ -1,0 +1,15 @@
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\bin\Debug\net7.0\EXERCICIO9.exe
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\bin\Debug\net7.0\EXERCICIO9.deps.json
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\bin\Debug\net7.0\EXERCICIO9.runtimeconfig.json
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\bin\Debug\net7.0\EXERCICIO9.dll
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\bin\Debug\net7.0\EXERCICIO9.pdb
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\EXERCICIO9.csproj.AssemblyReference.cache
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\EXERCICIO9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\EXERCICIO9.AssemblyInfoInputs.cache
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\EXERCICIO9.AssemblyInfo.cs
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\EXERCICIO9.csproj.CoreCompileInputs.cache
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\EXERCICIO9.dll
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\refint\EXERCICIO9.dll
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\EXERCICIO9.pdb
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\EXERCICIO9.genruntimeconfig.cache
+C:\Alessandra Medeiros\Coqueiros\coqueiros-modulo1-semana01C\EXERCICIO9\obj\Debug\net7.0\ref\EXERCICIO9.dll
