@@ -1,40 +1,30 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+//criado a lista que será nossa transação
+List <double> transacao = new List<double>();
 
-string selecao;
- double saldo=0;
- 
- //loop MENU:
- do{ 
-   Console.WriteLine("Bem vindo ao Banco Nacional Coqueiros, por favor digite a opção desejada: ");
-      Console.WriteLine("1-Adicionar transação");
-      Console.WriteLine("2-Consultar extrato");
-      Console.WriteLine("3-Sair");
-       selecao=Console.ReadLine();
-       Console.WriteLine("Você selecionou "+selecao);
- }while (!(selecao=="1" || selecao=="2" || selecao=="3"));
+// criacao de variavel opcao
+string opcao;
 
- List <double> conta= new List<double>();
- double deposito;
+//as 2 variaveis acima sao criadas qdo o sistema inicia (não serão recriadas)
 
+//enquanto não selecionar 3, o menu vai continuar repetindo
+do{
+   Console.WriteLine("Bem vindo ao Banco Nacional Coqueiros, por favor selecione uma opção para continuar: ");
+   Console.WriteLine("1 - Adicionar Transação");
+   Console.WriteLine("2 - Consultar extrato");
+   Console.WriteLine("3 - Sair");
+   opcao = Console.ReadLine();
 
-//Money deposit to account:
-   if (selecao=="1") {
-      Console.WriteLine("Digite abaixo o valor que deseja depositar:");
-      deposito=double.Parse(Console.ReadLine());
-      conta.Add(deposito);
-      } 
-      
-      //Account balance:
-      else if (selecao== "2"){
-      
-      for (int i=0; i < (conta.Count); i++){
-          Console.WriteLine("Depósito de R$:"+conta[i]);
-          saldo=saldo+conta[i];
+//se a opcao for 1, aparece mensagem para digitar o valor, dá a leitura do double e adiciona
+   if (opcao == "1"){
+      Console.WriteLine("Digite o valor a ser depositado: R$ ");
+      transacao.Add (double.Parse (Console.ReadLine()));
       }
-      Console.WriteLine("Saldo atual= R$"+saldo);
- }
- //Leaving the bank system:
- else{
-   Console.WriteLine("Muito obrigado por utulizar nosso sistema, até a próxima.");
- }
+
+//se a opçcao for 2, mostra o extrato
+    if (opcao == "2") {
+     Console.WriteLine("Seu extrato: ");
+     foreach (var valor in transacao) {
+        Console.WriteLine($"R$ " + valor);}
+    }
+}while (!(opcao == "3"));
