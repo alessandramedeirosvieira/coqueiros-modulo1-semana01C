@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QIPiu9o4Tug5ESCx07XQq4dr9Gt6Eb7HRikIUJN4ikZ3FYbq693FfHRebqzFFSikLg+EjhpOCnhita6tt83aGg==",
+  "dgSpecHash": "2YZV8J5qHg/4a3Ip22fStupymHpF/fkDHRUYUkGqN54NK+JcI3DyWCEM1SbB6ImzISwTYWr4D2PrYLHlstvf1A==",
   "success": true,
-  "projectFilePath": "c:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj",
+  "projectFilePath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",

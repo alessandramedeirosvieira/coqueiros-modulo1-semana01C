@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\EXERCICIO9\\EXERCICIO9.csproj": {}
+    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\exercicio9\\EXERCICIO9.csproj": {}
   },
   "projects": {
-    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\EXERCICIO9\\EXERCICIO9.csproj": {
+    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\exercicio9\\EXERCICIO9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\EXERCICIO9\\EXERCICIO9.csproj",
+        "projectUniqueName": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\exercicio9\\EXERCICIO9.csproj",
         "projectName": "EXERCICIO9",
-        "projectPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\EXERCICIO9\\EXERCICIO9.csproj",
+        "projectPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\exercicio9\\EXERCICIO9.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\EXERCICIO9\\obj\\",
+        "outputPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\exercicio9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

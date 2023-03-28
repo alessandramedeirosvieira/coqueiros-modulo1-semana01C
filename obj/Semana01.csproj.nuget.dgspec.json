@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj": {}
+    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj": {}
   },
   "projects": {
-    "c:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj": {
+    "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj",
+        "projectUniqueName": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj",
         "projectName": "Semana01",
-        "projectPath": "c:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj",
+        "projectPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\Semana01.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "c:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\obj\\",
+        "outputPath": "C:\\Alessandra Medeiros\\Coqueiros\\coqueiros-modulo1-semana01C\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

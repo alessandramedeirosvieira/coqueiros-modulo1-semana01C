@@ -17,14 +17,19 @@ do{
 
 //se a opcao for 1, aparece mensagem para digitar o valor, dá a leitura do double e adiciona
    if (opcao == "1"){
-      Console.WriteLine("Digite o valor a ser depositado: R$ ");
+      Console.WriteLine("Digite o valor a ser depositado:R$ ");
       transacao.Add (double.Parse (Console.ReadLine()));
       }
 
-//se a opçcao for 2, mostra o extrato
+//se a opçcao for 2, mostra o extrato e o saldo (somando a cada loop que der)
     if (opcao == "2") {
      Console.WriteLine("Seu extrato: ");
+     double saldo = 0;
      foreach (var valor in transacao) {
-        Console.WriteLine($"R$ " + valor);}
+        saldo = saldo + valor;
+        Console.WriteLine($"R$ " + valor);
+        }
+    Console.WriteLine ("Seu saldo (em R$): " + saldo);
     }
-}while (!(opcao == "3"));
+     
+     }while (!(opcao == "3"));
